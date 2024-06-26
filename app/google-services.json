@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "283194243331",
+    "project_id": "android-mobile-af476",
+    "storage_bucket": "android-mobile-af476.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:283194243331:android:17d33fe26a2bfd42195136",
+        "android_client_info": {
+          "package_name": "com.rafdev.androidmobile"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbRd0HPQ88rybXXw-C_MLhCqPZdi4NIVw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
