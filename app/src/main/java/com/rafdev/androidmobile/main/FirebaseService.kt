@@ -20,6 +20,7 @@ class FirebaseService : FirebaseMessagingService() {
 
     override fun onMessageReceived(message: RemoteMessage) {
         message.notification?.let {
+            Log.i("FCM Body", "it --> $it")
             Log.i("FCM Title", "${it.title}")
             Log.i("FCM Body", "${it.body}")
             sendNotification(it)
