@@ -61,6 +61,9 @@ dependencies {
     implementation("com.google.firebase:firebase-analytics-ktx")
     implementation("com.google.firebase:firebase-messaging-ktx")
 
+    //viewpager ---1
+    implementation("androidx.viewpager2:viewpager2:1.1.0")
+
 }
 
 kapt {

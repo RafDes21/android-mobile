@@ -1,0 +1,8 @@
+VIEW PAGER 2
+1--> agregamos la dependencia en el gradle de app
+    implementation("androidx.viewpager2:viewpager2:1.1.0")
+
+    2-->Creamos los fragments
+3--> Agregamos el xml al main activity
+4--> agregamos un adapter en el viewpager
+5 --> agregamos codigo en el main activity
