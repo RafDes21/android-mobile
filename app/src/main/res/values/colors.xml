@@ -5,4 +5,8 @@
 
     <color name="primary">#EA9D13</color>
 
+    <item name="tab_color_selected" type="color">#FFF</item>
+    <item name="tab_color_unselected" type="color">#65FFFFFF</item>
+    <color name="test">#970D0D</color>
+
 </resources>

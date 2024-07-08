@@ -6,3 +6,5 @@ VIEW PAGER 2
 3--> Agregamos el xml al main activity
 4--> agregamos un adapter en el viewpager
 5 --> agregamos codigo en el main activity
+6--> agregamos los colores para cuando esta selccionado y cuando
+7--> se añadio un selector al drawable

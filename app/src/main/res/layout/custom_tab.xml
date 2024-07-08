@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="match_parent"
+    android:background="@color/test"
+    android:orientation="vertical"
+    android:gravity="start">
+
+    <TextView
+        android:id="@+id/tabTitle"
+        android:background="@color/primary"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="13sp"
+        android:textColor="@color/tab_icon_selector" />
+
+</LinearLayout>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<!--    <style name="CustomTabLayout" parent="Widget.Design.TabLayout">-->
+<!--        <item name="tabIndicatorGravity">bottom</item> &lt;!&ndash; Asegúrate de que el indicador esté en la parte inferior &ndash;&gt;-->
+<!--        <item name="tabGravity">fill</item> &lt;!&ndash; Para asegurar que las pestañas llenen el ancho &ndash;&gt;-->
+<!--        <item name="tabMode">fixed</item> &lt;!&ndash; Pestañas con ancho fijo &ndash;&gt;-->
+<!--        <item name="tabIndicatorHeight">4dp</item> &lt;!&ndash; Altura del indicador &ndash;&gt;-->
+<!--    </style>-->
+
+<!--    <style name="CustomTabTextAppearance" parent="TextAppearance.Design.Tab">-->
+<!--        <item name="android:textAlignment">viewStart</item> &lt;!&ndash; Alineación a la izquierda &ndash;&gt;-->
+<!--        <item name="android:gravity">start</item> &lt;!&ndash; Gravedad a la izquierda &ndash;&gt;-->
+<!--        <item name="android:paddingEnd">70dp</item> &lt;!&ndash; Ajusta el padding según necesites &ndash;&gt;-->
+<!--    </style>-->
+</resources>
