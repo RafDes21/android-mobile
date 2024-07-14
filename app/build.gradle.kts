@@ -12,7 +12,7 @@ android {
 
     defaultConfig {
         applicationId = "com.rafdev.androidmobile"
-        minSdk = 21
+        minSdk = 23
         targetSdk = 34
         versionCode = 1
         versionName = "1.0"
@@ -57,9 +57,11 @@ dependencies {
     implementation("androidx.hilt:hilt-navigation-fragment:1.1.0")
 
     //firebase
-    implementation(platform("com.google.firebase:firebase-bom:33.1.1"))
+    implementation(platform("com.google.firebase:firebase-bom:33.1.2"))
     implementation("com.google.firebase:firebase-analytics-ktx")
     implementation("com.google.firebase:firebase-messaging-ktx")
+    implementation("com.google.firebase:firebase-auth-ktx")
+
 
 }
 
