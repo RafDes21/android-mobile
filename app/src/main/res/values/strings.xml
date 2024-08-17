@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">AndroidMobile</string>
     <string name="default_notification_channel_id" translatable="false">fcm_default_channel</string>
+    <string name="default_web_client_id">283194243331-k65bokk4s1h4cgumvsufumlcvj4d9h63.apps.googleusercontent.com</string>
 </resources>

@@ -61,6 +61,10 @@ dependencies {
     implementation("com.google.firebase:firebase-analytics-ktx")
     implementation("com.google.firebase:firebase-messaging-ktx")
 
+//    google
+    implementation ("com.squareup.picasso:picasso:2.71828")
+    implementation("com.google.android.gms:play-services-auth:21.2.0")
+
 }
 
 kapt {
